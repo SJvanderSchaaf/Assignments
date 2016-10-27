@@ -71,6 +71,8 @@ Blumenthal-Barby, J.S., & Burroughs, H. (2012). Seeking Better Health Care Outco
 
 Haynes S.N. & Horn W.F. (1982) Reactivity in behavioral observation: A review. Behavioral Assessment, Vol 4(4), 369-385
 
+Johnson, E. J., & Goldstein, D. G. (2003). Do defaults save lives? Science, 302, 1338-1339
+
 Martin SJ., Bassi S., Dunbar-Rees R., (2012) Commitments, norms and custard creams – a social influence approach to reducing did not attends (DNAs). J R Soc Med. 105(3): 101–104
 
 Matjasko, J.L., Cawley, J.H., Baker-Goering, M.M., & Yokum, D.V. (2016). Applying Behavioral Economics to Public Health Policy: Illustrative Examples and Promising Directions. American Journal of Preventive Medicine, 50(5 Suppl 1):S13-9, 1-12
