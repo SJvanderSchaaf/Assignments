@@ -17,6 +17,18 @@ On the following pages we want to give an overview of how this approach can be a
 
 This canon is divided into four chapters. It commences with a brief overview of the influence of manipulative advertisement and how the state can nudge people towards a healthier lifestyle. In the second chapter we discuss one of the most classic examples of Behavioural Economics and public health – the possibility to increase organ donations by imposing a default option so that every citizen is automatically an organ donator. Following to that we show what impact monitoring of hospital employees on hygiene can have and how patient’s choices at the doctors can be improved. Eventually we emphasise on the positive nudging effect smartphone apps and other devices can have to promote healthier lifestyles and choices.
 
+####NUDGING TOWARDS A HEALTHIER LIFESTYLE
+
+Recently, the traditional persuasion messages are starting to show their limited impact on health decisions and therefore, insights from behavioural economics are becoming more and more relevant in healthcare management (Voyer, 2015).
+
+One of the most known health related examples of how people can be nudged is encouraging them to quit smoking. It is commonly known that smoking is an unhealthy habit. And even though the taxes on harmful substances such as tabacco keep increasing, many smokers have been unable to quit (Matjasko, Cawley, Baker-Goering & Yokum, 2016). Parkes, Greenhalgh, Griffin and Dent (2008) conducted an experiment where they used the lung age of smokers as an incentive for them to quit. Lung age was defined as the age of the average healthy participant whose results of the long test was equal to the result of the smoker. The authors found that emphasizing the lung age, rather than the raw results of the test, significantly increased the probability for smokers to quit. This result might me related to the effect of social norms. Blumenthal-Barby & Burroughs (2012) mention the “Charm Project” in the UK and the “Most of Us Wear Seatbelts” campaign in Montana. Respectively, lifestyle and exercise choices of participants were compared with those of peers to incentivize them towards a healthier lifestyle, and people were reminded that 85% of the population wear seatbelts, which resulted into a significant increase in the reported use of seatbelts.
+
+Another method that was found to be effective in making people stop smoking is through salience and affect (Blumenthal-Barby & Burroughs, 2012). Participants were shown a video in which they or one of their loved ones suffered from a heart attack. Three months later, 50% of the participants claimed to have quit smoking. This is based on people being sensitive to novel, personally relevant, or vivid examples and explanations. Other health enhancing applications of this method are depicturing food that corresponds to the amount of calories burned while exercising and stating the amount of calories per dish on menus.
+
+Unhealthy food consumption can also be reduced by priming (Blumenthal-Barby, 2012). This method makes use of subconscious cues that influence the decision making process. For instance, in a school cafeteria, fruit consumption went up 54% when it was displayed attractively and placed prominently. And, after handing out smaller food containers in an all-you-can-eat environment, people showed lower food consumption. Simply asking people about their health habits, like flossing or eating fast food, nudged them toward healthier choices as well. Another kind of primer is a reminder to make healthier choices. Examples are reminding people to exercise and plan their screening appointments (Blumenthal-Barby, 2012). Matjasko et al. (2016) states the importance of framing. That is, framing messages about a certain behaviour or treatment in a way that emphasizes the positive effect on health are more effective when it concerns the prevention of health issues. When a message is framed in such a way that the negative effects on health are emphasized, screening behaviour is encouraged. Blumenthal-Barby & Burroughs (2012) found a higher effectiveness of messages aimed at young adults, when they feel similar to the messenger.
+
+Finally, another possibility is to supply people who have time-inconsistent preferences with commitment devices (Matjasko et al., 2016). Such consumers find themselves giving into temptations, instead of living the healthy lifestyle they desire. A commitment device proposed by Thaler is a deposit contract, which will only give back the deposit if the predetermined goal is reached. Research has found that the completion of more weeks of exercise can be accomplished by nudging people to make commitments for a longer term (Matjasko et al., 2016).
+
 ####MONITORING AND FEEDBACK
 
 Health care is a field that has significant potential to utilize the behavioural economics approach, one of whose leading applications is monitoring and feedback. Monitoring and feedback programs contribute to the improvement of health care services mostly through change in the behaviours of either hospital staff or that of patients.  The underlying mechanism by which monitoring and feedback creates change in the behaviour is “reactivity” and it says that people may change behaviour when they are being observed (Orlowska, 1990). In fact, reactivity is considered as a threat to the validity of behavioural observation as Haynes and Horn (1982) suggest, because it will probably cause modification in the behaviour of the subjects. However, in case of monitoring as a method to improve health care services in the hospitals, modification in the behaviour of subjects -i.e. hospital staff or patients- is indeed, what is desired. Sykes (1978) explains the concept of reactivity by introducing the concept of “observer’s effect”, which is the change in the behaviour of the subject as a consequence of the observer’s presence. 
@@ -36,3 +48,29 @@ From the entire possibilities rose from gamification, it is possible to incorpor
 A much-mentioned study in this field is the article “Ecological momentary interventions: Incorporating mobile technology into psychosocial and health behaviour treatments” by J. Smyth and K. Heron (2010). The authors aim to present and criticize the use of mobile technology to improve health behaviours and psychological and physical symptoms. The study consist of a base of twenty-seven mobile technology interventions to deliver ambulatory treatment on patients with smoking cessation, weight loss, anxiety, diabetes management, eating disorders, alcohol use, healthy eating and physical activity. The article emphasizes that mobile-technology devices have a positive effect on treating health behaviours and that the patients very well accepted them.  
 
 The use of gamification of e-health is indeed one of the biggest promises of the healthcare sector. With the rise of healthcare information and the constant growth of the use of smartphones, the acceptance of gamification tends to be even higher than it is nowadays. Moreover, the youth claims to a fun and dynamic relationship between health and health devices.
+
+#####REFERENCES
+
+SMYTH, J. HERON, K. “Ecological momentary interventions: Incorporating mobile technology into psychosocial and health behaviour treatments”. New York, NY. 2010
+
+Armellino D. et al. (2013) Replicating changes in hand hygiene in a surgical intensive care unit with remote video auditing and feedback. Am J Infect Control 41: 925-7
+
+Haynes S.N. & Horn W.F. (1982) Reactivity in behavioral observation: A review. Behavioral Assessment, Vol 4(4), 369-385. 
+
+Martin SJ., Bassi S., Dunbar-Rees R., (2012) Commitments, norms and custard creams – a social influence approach to reducing did not attends (DNAs). J R Soc Med. 105(3): 101–104
+
+Orlowska D., (1990) Staff reactivity to observation. The British Journal of Mental Subnormality Vol.36, Part 2, No.71
+
+Overdyk FJ, Dowling O, Newman S, et al. BMJ Qual Saf (2015) Remote video auditing with realtime feedback in an academic surgical suite improves safety and efficiency metrics: a cluster randomised study. 
+
+Sykes R. (1978) Toward a Theory of Observer Effect in Systematic Field Observation. Human Organization: Summer 1978, Vol. 37, No. 2, pp. 148-156.
+
+Walker J.L. et al. (2014) Hospital hand hygiene compliance improves with increased monitoring and immediate feedback. Am J Infect Control 42: 1074-8
+
+Blumenthal-Barby, J.S., & Burroughs, H. (2012). Seeking Better Health Care Outcomes: The Ethics of Using the “Nudge”. The American Journal of Bioethics, 12(2), 1-10
+
+Voyer, Benjamin G. (2015) ‘Nudging’ behaviours in healthcare: insights from behavioural economics. British Journal of Healthcare Management, 21 (3). pp. 130-135
+
+Parkes, G., Greenhalgh, T., Griffin, M. & Dent, R., (2008). Effect on Smoking Quit Rate of Telling Patients Their Lung Age: The Step2quit Randomised Controlled Trial. BMJ: British Medical Journal, 336(7644), 598-600.
+
+Matjasko, J.L., Cawley, J.H., Baker-Goering, M.M., & Yokum, D.V. (2016). Applying Behavioral Economics to Public Health Policy: Illustrative Examples and Promising Directions. American Journal of Preventive Medicine, 50(5 Suppl 1):S13-9, 1-12
