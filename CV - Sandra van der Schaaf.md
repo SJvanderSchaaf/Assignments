@@ -41,35 +41,27 @@ Atheneum, Veenlanden College Mijdrecht
 ####WORKING EXPERIENCE
 
 **2011 - present**        
-Vivificus Financial Services, Wilnis
-           
-Clerical worker
-              
+Vivificus Financial Services, Wilnis           
+Clerical worker            
 Market research and various administrative activities
 
 
 **2012 - 2014**           
-Multifill BV, Mijdrecht
-           
-Production assistant
-            
+Multifill BV, Mijdrecht           
+Production assistant            
 Varous activities involving the manufacturing process
 
 ####EXTRA CURRICULAR ACTIVITIES
 
 **2016**                  
-Talent Day Committee, Asset | Economics, Tilburg University
-             
-Treasurer
-            
+Talent Day Committee, Asset | Economics, Tilburg University             
+Treasurer            
 Organizing Talent Day 2016, controlling budget of the event
 
 
 **2010 - 2012**           
-Combinatie Sportclub Wilnis, Wilnis
-           
-Volunteer
-              
+Combinatie Sportclub Wilnis, Wilnis           
+Volunteer              
 Coach and assistant at "Minikamp" 
 
 ####COMPUTER SKILLS 
