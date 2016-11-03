@@ -42,42 +42,34 @@ Atheneum, Veenlanden College Mijdrecht
 
 **2011 - present**        
 Vivificus Financial Services, Wilnis
-
-Position              
+           
 Clerical worker
-
-Function              
+              
 Market research and various administrative activities
 
 
 **2012 - 2014**           
 Multifill BV, Mijdrecht
-
-Position              
+           
 Production assistant
-
-Function              
+            
 Varous activities involving the manufacturing process
 
 ####EXTRA CURRICULAR ACTIVITIES
 
 **2016**                  
 Talent Day Committee, Asset | Economics, Tilburg University
-
-Position              
+             
 Treasurer
-
-Function              
+            
 Organizing Talent Day 2016, controlling budget of the event
 
 
 **2010 - 2012**           
 Combinatie Sportclub Wilnis, Wilnis
-
-Position              
+           
 Volunteer
-
-Function              
+              
 Coach and assistant at "Minikamp" 
 
 ####COMPUTER SKILLS 
