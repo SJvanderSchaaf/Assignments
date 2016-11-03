@@ -1,6 +1,6 @@
 ##**CURRICULUM VITAE**
 
-####*PERSONAL DETAILS*
+####PERSONAL DETAILS
 
 **Name:**    
 S.J. (Sandra) van der Schaaf
@@ -23,7 +23,7 @@ Amsterdam
 **Nationality:**				
 Netherlands
 
-####*EDUCATION*
+####EDUCATION
 
 **2016 - present**     
 Master Economics, Track Behavioural Economics, Tilburg University
@@ -38,7 +38,7 @@ Minor organizational psychology, courses in academic English, thesis subject: in
 **2006 - 2012**           
 Atheneum, Veenlanden College Mijdrecht
 
-####*WORKING EXPERIENCE*
+####WORKING EXPERIENCE
 
 **2011 - present**        
 Vivificus Financial Services, Wilnis
@@ -59,7 +59,7 @@ Production assistant
 Function              
 Varous activities involving the manufacturing process
 
-####*EXTRA CURRICULAR ACTIVITIES*
+####EXTRA CURRICULAR ACTIVITIES
 
 **2016**                  
 Talent Day Committee, Asset | Economics, Tilburg University
@@ -80,7 +80,7 @@ Volunteer
 Function              
 Coach and assistant at "Minikamp" 
 
-####*COMPUTER SKILLS* 
+####COMPUTER SKILLS 
 
 **Word**                  
 Sufficient
@@ -97,7 +97,7 @@ Sufficient
 **Stata**                 
 Sufficient
 
-####*LANGUAGE SKILLS* 
+####LANGUAGE SKILLS 
 
 **Dutch**                 
 Native language
@@ -111,6 +111,6 @@ Basic knowledge
 **Swedish**               
 Basic knowledge
 
-####*ADDITIONAL INFORMATION*
+####ADDITIONAL INFORMATION
 
 In possession of driver's license B
