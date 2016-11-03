@@ -1,85 +1,116 @@
 ##**CURRICULUM VITAE**
 
-####PERSONAL DETAILS
+####*PERSONAL DETAILS*
 
-Name:           S.J. (Sandra) van der Schaaf
+**Name:**    
+S.J. (Sandra) van der Schaaf
 
-Address:        Blauwe Zegge 96, 3648JM Wilnis
+**Address:**      
+Blauwe Zegge 96, 3648JM Wilnis
  
-Telephone:      +316 - 13937276
+**Telephone:**				
++316 - 13937276
 
-E-mail:         sandra@vivificus.nl
+**E-mail:**					
+sandra@vivificus.nl
 
-Date of birth:  26-09-1994
+**Date of birth:**				
+26-09-1994
 
-Place of birth: Amsterdam
+**Place of birth:**				
+Amsterdam
 
-Nationality:    Netherlands
+**Nationality:**				
+Netherlands
 
-####EDUCATION
+####*EDUCATION*
 
-2016 - present        Master Economics, Track Behavioural Economics, Tilburg University
+**2016 - present**     
+Master Economics, Track Behavioural Economics, Tilburg University
 
-Jan 2016 - May 2016   Various economics courses, Hanken School of Ecnomics, Helsinki
+**Jan 2016 - May 2016**				
+Various economics courses, Hanken School of Ecnomics, Helsinki
 
-2012 - 2016           Bachelor Economics and Business Economics, Vrije Universiteit Amsterdam
+**2012 - 2016**           
+Bachelor Economics and Business Economics, Vrije Universiteit Amsterdam				
+Minor organizational psychology, courses in academic English, thesis subject: incentive schemes
 
-                      Minor organizational psychology, courses in academic English, thesis subject: incentive schemes
+**2006 - 2012**           
+Atheneum, Veenlanden College Mijdrecht
 
-2006 - 2012           Atheneum, Veenlanden College Mijdrecht
+####*WORKING EXPERIENCE*
 
-####WORKING EXPERIENCE 
+**2011 - present**        
+Vivificus Financial Services, Wilnis
 
-2011 - present        Vivificus Financial Services, Wilnis
+Position              
+Clerical worker
 
-Position              Clerical worker
-
-Function              Market research and various administrative activities
-
-
-2012 - 2014           Multifill BV, Mijdrecht
-
-Position              Production assistant
-
-Function              Varous activities involving the manufacturing process
-
-####EXTRA CURRICULAR ACTIVITIES
-
-2016                  Talent Day Committee, Asset | Economics, Tilburg University
-
-Position              Treasurer
-
-Function              Organizing Talent Day 2016, controlling budget of the event
+Function              
+Market research and various administrative activities
 
 
-2010 - 2012           Combinatie Sportclub Wilnis, Wilnis
+**2012 - 2014**           
+Multifill BV, Mijdrecht
 
-Position              Volunteer
+Position              
+Production assistant
 
-Function              Coach and assistant at "Minikamp" 
+Function              
+Varous activities involving the manufacturing process
 
-####COMPUTER SKILLS 
+####*EXTRA CURRICULAR ACTIVITIES*
 
-Word                  Sufficient
+**2016**                  
+Talent Day Committee, Asset | Economics, Tilburg University
 
-Excel                 Sufficient
+Position              
+Treasurer
 
-Powerpoint            Sufficient
+Function              
+Organizing Talent Day 2016, controlling budget of the event
 
-SPSS                  Sufficient
 
-Stata                 Sufficient
+**2010 - 2012**           
+Combinatie Sportclub Wilnis, Wilnis
 
-####LANGUAGE SKILLS 
+Position              
+Volunteer
 
-Dutch                 Native language
+Function              
+Coach and assistant at "Minikamp" 
 
-English               Advanced level
+####*COMPUTER SKILLS* 
 
-German                Basic knowledge
+**Word**                  
+Sufficient
 
-Swedish               Basic knowledge
+**Excel**                 
+Sufficient
 
-####ADDITIONAL INFORMATION
+**Powerpoint**            
+Sufficient
+
+**SPSS**                  
+Sufficient
+
+**Stata**                 
+Sufficient
+
+####*LANGUAGE SKILLS* 
+
+**Dutch**                 
+Native language
+
+**English**               
+Advanced level
+
+**German**                
+Basic knowledge
+
+**Swedish**               
+Basic knowledge
+
+####*ADDITIONAL INFORMATION*
 
 In possession of driver's license B
