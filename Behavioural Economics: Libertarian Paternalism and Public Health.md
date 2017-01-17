@@ -1,4 +1,6 @@
 #Behavioural Economics: Libertarian Paternalism and Public Health
+![alt tag](https://raw.githubusercontent.com/fxxmiles/CANONGIT/master/libertarian_paternalism_copia.jpg)
+
 ![[]{data-label="fig:example"}](libertarian_paternalism_copia.jpg)
 
 
